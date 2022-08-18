@@ -1,2 +1,5 @@
-Esto es una prueba, no es un simulacro!
+a = 8;
+console.log("Hola mundo.");
+
+
 
